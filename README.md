@@ -6,7 +6,7 @@
 ## 🚀 About Me
 - Passionate about building real-world, scalable web applications
 - Experience in full-stack development with modern technologies
-- Interested in internships and entry-level software development roles
+
 
 ## 🛠️ Tech Stack
 - **Frontend:** HTML5, CSS3, Flexbox, Grid, Bootstrap 5,JavaScript (ES6), DOM Manipulation, jQuery,React.js, React Hooks, Web Design
