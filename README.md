@@ -22,7 +22,7 @@
 
 ## 🔗 Links
 - 🌐 Portfolio: https://rishivykunta.vercel.app
-- 💼 LinkedIn: https://linkedin.com/in/YOUR-LINK
+- 💼 LinkedIn:[https://www.linkedin.com/in/rishi-vykunta-1154a932b/](https://www.linkedin.com/in/rishi-vykunta-1154a932b/)
 
 ⭐ Always learning, building, and improving.
 
