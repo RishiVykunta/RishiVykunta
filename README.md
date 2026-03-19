@@ -6,20 +6,19 @@
 ## 🚀 About Me
 - Passionate about building real-world, scalable web applications  
 - Experience in full-stack development with modern technologies  
-- Interested in AI-driven applications and data-focused solutions  
+
 
 ---
 
 ## 🛠️ Tech Stack
 
-- **Frontend:** HTML5, CSS3, Flexbox, Grid, Bootstrap 5, JavaScript (ES6), DOM, jQuery, React.js, Hooks  
-- **Backend:** Node.js, Express.js, REST APIs, EJS, SQL, PostgreSQL, Authentication & Authorization  
-- **Tools:** Git, GitHub, VS Code, Postman, Bash, Version Control  
-- **Deployment:** Vercel, Render  
+- **Programming Languages:** C, C++, JavaScript (ES6), OOP, DSA  
+- **Frontend:** HTML5, CSS3, Flexbox, Grid, Bootstrap 5, React.js, React Hooks, jQuery  
+- **Backend:** Node.js, Express.js, REST APIs, EJS, Authentication & Authorization  
+- **Databases:** SQL, PostgreSQL, MySQL, DBMS  
+- **Tools & Platforms:** Git, GitHub, VS Code, Postman, Bash, NPM  
 
 ---
-
-## 💼 Experience
 
 ### **Swathy Designer Studio (Label by Swathy Reddy)** *(2025 – Present)*
 - Designed and developed a full-stack e-commerce platform for designer sarees  
