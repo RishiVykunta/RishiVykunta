@@ -4,40 +4,63 @@
 💻 Web Developer | Full-Stack Enthusiast  
 
 ## 🚀 About Me
-- Passionate about building real-world, scalable web applications
-- Experience in full-stack development with modern technologies
+- Passionate about building real-world, scalable web applications  
+- Experience in full-stack development with modern technologies  
+- Interested in AI-driven applications and data-focused solutions  
 
+---
 
 ## 🛠️ Tech Stack
-- **Frontend:** HTML5, CSS3, Flexbox, Grid, Bootstrap 5,JavaScript (ES6), DOM Manipulation, jQuery,React.js, React Hooks, Web Design
-- **Backend:** Node.js, Express.js, NPM,EJS, REST APIs, SQL, PostgreSQL,Authentication, Authorization
 
-- **Tools:** Git, GitHub, VS Code, Postman,Version Control,Bash / Command Line, GitHub Pages
-- **Deployment:** Vercel, Render
+- **Frontend:** HTML5, CSS3, Flexbox, Grid, Bootstrap 5, JavaScript (ES6), DOM, jQuery, React.js, Hooks  
+- **Backend:** Node.js, Express.js, REST APIs, EJS, SQL, PostgreSQL, Authentication & Authorization  
+- **Tools:** Git, GitHub, VS Code, Postman, Bash, Version Control  
+- **Deployment:** Vercel, Render  
+
+---
+
+## 💼 Experience
+
+### **Swathy Designer Studio (Label by Swathy Reddy)** *(2025 – Present)*
+- Designed and developed a full-stack e-commerce platform for designer sarees  
+- 🌐 Live: https://labelbyswathireddy.com/  
+- Built responsive React frontend with secure Node.js APIs and PostgreSQL  
+- Implemented JWT authentication, cart, wishlist, orders, and admin dashboard  
+- Integrated Cloudinary, Resend email flows, and optimized deployment on Vercel  
+
+---
 
 ## 📌 Projects
-- **Job Portal Web Application** – Full-stack app with authentication & role-based access
-- **E-commerce Platform** – Cart, checkout, admin management
-- **Real-Time Dashboard** – Live analytics and admin controls
+
+### 🌱 **AgriBridge – Agri E-Commerce & Community Platform** *(Feb 2026)*
+- Built a full-stack multi-role platform connecting farmers, retailers, and consumers  
+- Implemented authentication, product catalog, cart, wishlist, and reviews  
+- Developed scalable backend using Prisma ORM and server actions  
+- 🚀 Live: https://agri-bridge-jljo.vercel.app/  
+
+---
+
+### 🚆 **Railway Management System – Reservation Platform** *(Mar 2026)*
+- Developed booking engine with PNR tracking and dynamic seat allocation  
+- Implemented role-based dashboards for admin and passenger workflows  
+- Integrated Google OAuth, JWT authentication, and email notifications  
+- 🚀 Live: https://rms-sable.vercel.app/  
+
+---
+
+### 🤖 **AI Resume Analyzer – ATS Optimization Platform** *(Mar 2026)*
+- Built AI-powered system for ATS scoring, keyword extraction, and resume analysis  
+- Implemented context-aware evaluation using job descriptions  
+- Developed dashboards with insights, strengths, and improvement suggestions  
+- 🚀 Live: https://ai-resume-analizer-sage.vercel.app/  
+
+---
 
 ## 🔗 Links
-- 🌐 Portfolio: https://rishivykunta.vercel.app
-- 💼 LinkedIn:[https://www.linkedin.com/in/rishi-vykunta-1154a932b/](https://www.linkedin.com/in/rishi-vykunta-1154a932b/)
+
+- 🌐 Portfolio: https://rishivykunta.vercel.app  
+- 💼 LinkedIn: https://www.linkedin.com/in/rishi-vykunta-1154a932b/  
+
+---
 
 ⭐ Always learning, building, and improving.
-
-
-<!--
-**RishiVykunta/RishiVykunta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
